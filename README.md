@@ -75,11 +75,6 @@ Electronics and Telecommunication Engineering
 
 ## 📸 Project Gallery
 
-### Controller Front View
-![Front](images/controller-front.jpg)
-
-### Controller Back View
-![Back](images/controller-back.jpg)
 
 ### Circuit Connections
 ![Circuit](images/circuit.jpg)
