@@ -77,7 +77,7 @@ Electronics and Telecommunication Engineering
 
 
 ### Circuit Connections
-![Circuit](images/circuit.jpg)
+![Circuit](gamepad_connections.jpg)
 
 ### Complete Prototype
-![Prototype](images/prototype.jpg)
+![Prototype](gamepad.jpeg)
