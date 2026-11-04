@@ -73,4 +73,16 @@ Press the dedicated **Mode Button (GPIO 4)** to cycle between modes with haptic 
 **Sanchit Khobragade**  
 Electronics and Telecommunication Engineering
 
+## 📸 Project Gallery
 
+### Controller Front View
+![Front](images/controller-front.jpg)
+
+### Controller Back View
+![Back](images/controller-back.jpg)
+
+### Circuit Connections
+![Circuit](images/circuit.jpg)
+
+### Complete Prototype
+![Prototype](images/prototype.jpg)
