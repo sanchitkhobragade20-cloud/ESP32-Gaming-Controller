@@ -73,6 +73,4 @@ Press the dedicated **Mode Button (GPIO 4)** to cycle between modes with haptic 
 **Sanchit Khobragade**  
 Electronics and Telecommunication Engineering
 
-## 📌 Project Status
 
-DIY Prototype / Development in Progress
